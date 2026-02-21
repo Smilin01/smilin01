@@ -1,73 +1,142 @@
+<!-- ================= ULTRA ELITE V3 README ================= -->
+
 <h1 align="center">Hi 👋, I'm John Smilin D.S.</h1>
-<h3 align="center">DevOps Engineer | Python Developer | Cloud Infrastructure & Automation</h3>
 
 <p align="center">
-  <em>Automating the boring stuff with Python & building resilient cloud infrastructure on AWS.</em>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+DevOps+Engineer+%7C+Cloud+Automation;Building+Intelligent+Cloud+Platforms;Kubernetes+⚡+AWS+⚡+Python+Automation;Designing+Scalable+AI+Infrastructure" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smilin01&label=Profile%20views&color=0e75b6&style=flat" alt="smilin01" />
+<b>AI Engineer 🤖 • DevOps Engineer ⚙️ • Cloud Automation Specialist ☁️</b>
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=smilin01&column=7" alt="smilin01" />
-  </a> 
-</p>
-
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on **Automating AWS Cloud Infrastructure & CI/CD Pipelines**
-- 🌱 I’m currently learning **Advanced Kubernetes Orchestration & Terraform**
-- 👯 I’m looking to collaborate on **Open-source DevOps tools, Cloud Automation scripts, and Python backend projects**
-- 🤝 I’m looking for help with **Optimizing microservices architecture and Serverless patterns**
-- 👨‍💻 Check out my latest DevOps projects:
-  - [**Automated Cloud Provisioning**](https://github.com/smilin01/aws-infra-automation) (Python, Boto3)
-  - [**Serverless Image Pipeline**](https://github.com/smilin01/serverless-image-pipeline) (AWS Lambda, S3)
-  - [**K8s Microservices**](https://github.com/smilin01/k8s-microservice-deployment) (Docker, K8s, Ansible)
-- 💬 Ask me about **AWS Services, Python Scripting (Boto3), Dockerizing apps, and Linux Administration**
-- 📫 Reach me at **johnsmilin6@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/johnsmilin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john smilin ds" height="30" width="40" /></a>
-<a href="https://instagram.com/the.smilin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.smilin" height="30" width="40" /></a>
-<a href="https://github.com/smilin01" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=smilin01&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=2"/>
 
-**Cloud & DevOps:**
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="actions" width="40" height="40"/> </a>
-</p>
+# 🧠 About Me
 
-**Languages & Databases:**
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://supabase.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> </a>
+```diff
++ AI-focused DevOps Engineer building intelligent cloud systems
++ Automating infrastructure using Python, Kubernetes & AWS
++ Focused on scalable architecture & clean automation workflows
+```
+
+- 🤖 Working on **AI ResumeNova & AI Automation Systems**
+- ☁️ Building **Cloud Infrastructure & CI/CD Pipelines**
+- 🧠 Learning **MLOps • Terraform • Advanced Kubernetes**
+- 📫 **johnsmilin6@gmail.com**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=2"/>
+
+# ⚡ AI Neon Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-Generative_AI-00f7ff?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Language-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=2"/>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smilin01&show_icons=true&locale=en&theme=tokyonight" alt="smilin01" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smilin01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="smilin01" />
-</div>
+# 🚀 Featured Projects
+
+### 🤖 AI ResumeNova
+AI-powered resume generation platform with automation workflows & cloud deployment.
+
+### ⚡ AWS Infrastructure Automation
+Provisioning scalable infrastructure using Python & Boto3 automation.
+
+### ☸️ Kubernetes Microservices
+Containerized microservices with CI/CD pipelines and orchestration.
+
+### 🖼️ Serverless Image Pipeline
+Event-driven AWS architecture using Lambda + S3.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=2"/>
+
+# ⚙️ DevOps Pipeline
+
+```
+Code → GitHub → CI/CD → Docker → Kubernetes → AWS → Monitoring
+```
+
+✔ Infrastructure as Code  
+✔ Automated Deployments  
+✔ Cloud-native Architecture  
+✔ Scalable Microservices
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=2"/>
+
+# 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</p>
+
+### 💻 Languages & Backend
+
+<p>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"/>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=2"/>
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smilin01&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=smilin01&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smilin01&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=2"/>
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/johnsmilin">LinkedIn</a> •
+<a href="https://github.com/smilin01">GitHub</a> •
+<a href="https://instagram.com/the.smilin">Instagram</a>
+</p>
