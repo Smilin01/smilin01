@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=900&amp;color=4285F4&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Engineering+Agentic+AI+Systems;RAG+Pipelines+%2B+Multi-Agent+Orchestration;Building+Ordyrr+%26+ResumeNova;AI+Engineer+%40+Atos" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=900&amp;color=4285F4&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Engineering+Agentic+AI+Systems;RAG+Pipelines+%2B+Multi-Agent+Orchestration;Building+Ordyrr+%26+ResumeNova;AI+Engineer+%40+Atos" />
 
 <br/><br/>
 
