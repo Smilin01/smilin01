@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:9B72CB,100:FF6B00&height=220&section=header&text=John%20Smilin%20D.S.&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%94%20Agentic%20Systems%20%26%20Cloud%20Automation&descAlignY=62&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4285F4,50:9B72CB,100:FF6B00&amp;height=220&amp;section=header&amp;text=John%20Smilin%20D.S.&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=AI%20Engineer%20%E2%80%94%20Agentic%20Systems%20%26%20Cloud%20Automation&amp;descAlignY=62&amp;descSize=17"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=21&duration=2800&pause=900&color=4285F4&center=true&vCenter=true&width=820&lines=Engineering+Agentic+AI+Systems;RAG+Pipelines+%2B+Multi-Agent+Orchestration;Building+Ordyrr+%26+ResumeNova;AI+Engineer+%40+Atos" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=900&amp;color=4285F4&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Engineering+Agentic+AI+Systems;RAG+Pipelines+%2B+Multi-Agent+Orchestration;Building+Ordyrr+%26+ResumeNova;AI+Engineer+%40+Atos" />
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/johnsmilin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
-<a href="https://resumenova.in"><img src="https://img.shields.io/badge/ResumeNova.in-7F77DD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7F77DD"/></a>
-<a href="mailto:johnsmilin6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/smilin01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/johnsmilin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0A66C2"/></a>
+<a href="https://resumenova.in"><img src="https://img.shields.io/badge/ResumeNova.in-7F77DD?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=7F77DD"/></a>
+<a href="mailto:johnsmilin6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://github.com/smilin01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=smilin01&label=PROFILE+VIEWS&color=4285F4&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=smilin01&amp;label=PROFILE+VIEWS&amp;color=4285F4&amp;style=flat-square"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:9B72CB&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:4285F4,100:9B72CB&amp;height=3"/>
 
 <br/>
 
@@ -57,7 +57,7 @@ status: shipping
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9B72CB,100:FF6B00&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9B72CB,100:FF6B00&amp;height=3"/>
 
 <br/>
 
@@ -73,7 +73,7 @@ status: shipping
 
 Microservice architecture (auth · menu · order · notification) built on Django + React, with JWT auth, role-based access, live QR ordering flow, and an owner dashboard designed for real restaurant operations.
 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
@@ -84,7 +84,7 @@ Microservice architecture (auth · menu · order · notification) built on Djang
 
 Multi-mode resume builder powered by an AI agent layer — synced LaTeX + visual editors via normalized JSON state, credit-based usage system, with live ATS scoring and a Quantification Coach agent on the roadmap.
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/LLM_Agents-4285F4?style=flat-square"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white"/> <img src="https://img.shields.io/badge/LLM_Agents-4285F4?style=flat-square"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&amp;logo=latex&amp;logoColor=white"/>
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ Multi-mode resume builder powered by an AI agent layer — synced LaTeX + visual
 
 RAG-driven search using self-hosted SearXNG + Jina Reader + local retrieval, no paid search APIs, streamed via SSE.
 
-<img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Groq_Llama_4-F55036?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Groq_Llama_4-F55036?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-4285F4?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
@@ -114,7 +114,7 @@ Collaborative filtering, TF-IDF/cosine similarity, Bayesian popularity scoring, 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:4285F4&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:FF6B00,100:4285F4&amp;height=3"/>
 
 <br/>
 
@@ -148,28 +148,28 @@ Collaborative filtering, TF-IDF/cosine similarity, Bayesian popularity scoring, 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,50:9B72CB,100:FF6B00&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:4285F4,50:9B72CB,100:FF6B00&amp;height=3"/>
 
 <br/>
 
 ## 05 — Metrics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=smilin01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=4285F4&icon_color=FF6B00"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smilin01&layout=compact&theme=tokyonight&hide_border=true&title_color=4285F4"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=smilin01&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;title_color=4285F4&amp;icon_color=FF6B00"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smilin01&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=4285F4"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smilin01&theme=tokyonight&hide_border=true&ring=FF6B00&fire=4285F4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smilin01&amp;theme=tokyonight&amp;hide_border=true&amp;ring=FF6B00&amp;fire=4285F4"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smilin01&theme=tokyo-night&hide_border=true&color=4285F4&line=FF6B00"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smilin01&amp;theme=tokyo-night&amp;hide_border=true&amp;color=4285F4&amp;line=FF6B00"/>
 </p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9B72CB,100:4285F4&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:9B72CB,100:4285F4&amp;height=3"/>
 
 <br/>
 
@@ -177,13 +177,13 @@ Collaborative filtering, TF-IDF/cosine similarity, Bayesian popularity scoring, 
 
 ## Let's Connect
 
-<a href="https://linkedin.com/in/johnsmilin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/smilin01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://instagram.com/the.smilin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://resumenova.in"><img src="https://img.shields.io/badge/ResumeNova.in-7F77DD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/johnsmilin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="https://github.com/smilin01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
+<a href="https://instagram.com/the.smilin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/></a>
+<a href="https://resumenova.in"><img src="https://img.shields.io/badge/ResumeNova.in-7F77DD?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:9B72CB,100:4285F4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF6B00,50:9B72CB,100:4285F4&amp;height=120&amp;section=footer"/>
 
 </div>
