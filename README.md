@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:4285F4,50:9B72CB,100:FF6B00&height=180&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4285F4,50:9B72CB,100:FF6B00&amp;height=200&amp;section=header&amp;text=John%20Smilin%20D.S.&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20Cloud%20Automation&amp;descSize=16&amp;descAlignY=60"/>
 
 <br/>
 
-# John Smilin D.S.
-
-### AI Engineer — Agentic Systems & Cloud Automation
+<a href="https://github.com/smilin01">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=9B72CB&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Building+coding+agents+at+Atos+%E2%80%94+end-to-end+owner;Agent+tool-use+%C2%B7+Skills+%C2%B7+MCP+%C2%B7+RAG;Multi-agent+orchestration+that+ships+to+production;Founder+of+Ordyrr+%26+ResumeNova" alt="Typing SVG"/>
+</a>
 
 <img src="https://img.shields.io/badge/AI_ENGINEER-4285F4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/@_ATOS-111111?style=for-the-badge"/>
@@ -25,11 +25,78 @@
 
 <br/>
 
-## Overview
+## `whoami`
 
-I'm an **AI Engineer at Atos**, building agentic systems that ship — not demos. My work sits at the intersection of **RAG pipelines, multi-agent orchestration, agent tool-use / skills, and production-grade DevOps.**
+```python
+class SmilinDS:
+    role      = "AI Engineer @ Atos"
+    owns      = ["Atos Coding Agent (end-to-end)", "Ordyrr", "ResumeNova"]
+    focus     = ["Agentic systems", "RAG", "Multi-agent orchestration", "Agent skills & tool-use"]
+    philosophy = "Ship agents, not demos."
 
-Outside my day job, I'm the founder and engineer behind two live products: **Ordyrr** and **ResumeNova**.
+    def mission(self):
+        return "Turn LLMs into reliable, production-grade software teammates."
+```
+
+<br/>
+
+## Flagship at Atos — Coding Agent
+
+> **Full ownership.** I designed, built and own the Atos coding agent end-to-end — from architecture and agent loop to tooling, skills and delivery.
+
+| | |
+|---|---|
+| **Role** | Sole builder & owner — design → implementation → rollout |
+| **What it does** | Autonomous coding agent that plans, calls tools, edits code and verifies its own work |
+| **Core pieces** | Agent loop · tool-use layer · reusable **skills** · context management · guardrails |
+| **Approach** | Production-first: observable, testable, safe-by-default |
+
+<p>
+<img src="https://img.shields.io/badge/Agentic_Coding-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tool_Use-9B72CB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Skills_Framework-FF6B00?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Agent-34A853?style=flat-square"/>
+</p>
+
+<br/>
+
+## Skills Matrix
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Agentic AI**
+- Coding agents (plan → act → verify)
+- Multi-agent orchestration
+- Tool-use & function calling
+- Agent skills design
+- MCP integrations
+
+</td>
+<td width="33%" valign="top">
+
+**LLM Engineering**
+- RAG pipelines
+- Prompt & context engineering
+- Streaming (SSE) UX
+- LLM-driven automation
+- Evaluation & guardrails
+
+</td>
+<td width="33%" valign="top">
+
+**Platform & DevOps**
+- Microservices (Django, Node)
+- Docker · Kubernetes · AWS
+- CI/CD & Git workflows
+- PostgreSQL · JWT / RBAC
+- Linux
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -182,7 +249,7 @@ Classical-ML system design, zero LLM dependency — collaborative filtering, TF-
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&amp;color=0:FF6B00,50:9B72CB,100:4285F4&amp;height=120&amp;section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF6B00,50:9B72CB,100:4285F4&amp;height=140&amp;section=footer&amp;animation=twinkling"/>
 
 **Let's connect** — [LinkedIn](https://linkedin.com/in/johnsmilin) · [GitHub](https://github.com/smilin01) · [Instagram](https://instagram.com/the.smilin) · [ResumeNova.in](https://resumenova.in)
 
