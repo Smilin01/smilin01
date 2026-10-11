@@ -1,7 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="176" height="34" viewBox="0 0 176 34" role="img" aria-label="RESUMENOVA.IN">
-<rect x="0.5" y="0.5" width="175" height="33" rx="3" fill="#F6F5EF" stroke="#d9d7ca"/>
-<rect x="0.5" y="0.5" width="34" height="33" rx="3" fill="#2B5BFF"/>
-<rect x="30" y="0.5" width="5" height="33" fill="#2B5BFF"/>
-<g transform="translate(8.5 8.5) scale(0.7083)" fill="#fff"><path d="M12 1a11 11 0 1 0 0 22 11 11 0 0 0 0-22zm7.9 10h-3.2a17 17 0 0 0-1.5-6.3A9 9 0 0 1 19.9 11zM12 3.1c.9 1 1.9 3.3 2.7 7.9H9.3C10.1 6.400 11.100 4.100 12 3.100zM4.100 13h3.200a17 17 0 0 0 1.500 6.300A9 9 0 0 1 4.100 13zm3.200-2H4.100a9 9 0 0 1 4.700-6.300A17 17 0 0 0 7.300 11zM12 20.900c-.9-1-1.900-3.300-2.700-7.900h5.400c-.8 4.600-1.800 6.900-2.700 7.900zm3.200-1.600a17 17 0 0 0 1.500-6.300h3.200a9 9 0 0 1-4.700 6.300z"/></g>
-<text x="46" y="21.5" style="font-family:'SFMono-Regular',Menlo,Consolas,monospace;font-size:12px;font-weight:700;letter-spacing:.5px" fill="#111">RESUMENOVA.IN</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="32" viewBox="0 0 116 32" role="img" aria-label="WEBSITE">
+<rect x="0.5" y="0.5" width="115" height="31" rx="3" fill="#F6F5EF" stroke="#d9d7ca"/>
+<rect x="0.5" y="0.5" width="32" height="31" rx="3" fill="#2B5BFF"/><rect x="28" y="0.5" width="5" height="31" fill="#2B5BFF"/>
+<g transform="translate(8 8) scale(0.667)" fill="#fff"><path d="M12 1a11 11 0 1 0 0 22 11 11 0 0 0 0-22zm7.9 10h-3.2a17 17 0 0 0-1.5-6.3A9 9 0 0 1 19.9 11zM12 3.1c.9 1 1.9 3.3 2.7 7.9H9.3C10.1 6.4 11.1 4.1 12 3.1zM4.1 13h3.2a17 17 0 0 0 1.5 6.3A9 9 0 0 1 4.1 13zm3.2-2H4.1a9 9 0 0 1 4.7-6.3A17 17 0 0 0 7.3 11zM12 20.9c-.9-1-1.9-3.3-2.7-7.9h5.4c-.8 4.6-1.8 6.9-2.7 7.9zm3.2-1.6a17 17 0 0 0 1.5-6.3h3.2a9 9 0 0 1-4.7 6.3z"/></g>
+<text x="42" y="20.5" style="font-family:'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;font-size:11px;font-weight:700;letter-spacing:.4px" fill="#111111">WEBSITE</text></svg>

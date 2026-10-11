@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="520" viewBox="0 0 480 520" role="img" aria-label="Agent loop: plan, call tools, edit, verify">
+<style>.m{font-family:'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace} .s{font-size:11.5px;letter-spacing:.6px;font-weight:700} .xs{font-size:10px;letter-spacing:1.1px}
+.pulse{animation:run 6s linear infinite}@keyframes run{0%{transform:translateY(0);opacity:0}5%{opacity:1}95%{opacity:1}100%{transform:translateY(312px);opacity:0}}
+.ret{stroke-dasharray:6 6;animation:dash 1.2s linear infinite}@keyframes dash{to{stroke-dashoffset:-12}}</style>
+<rect width="480" height="520" fill="#F6F5EF"/><rect x="0.5" y="0.5" width="479" height="519" fill="none" stroke="#e3e1d6"/>
+<text x="32" y="40" class="m xs" fill="#2B5BFF">FIG_001 · THE AGENT LOOP</text>
+<text x="448" y="40" text-anchor="end" class="m xs" fill="#8a8a85">PLAN → ACT → VERIFY</text>
+<rect x="32" y="76" width="336" height="72" fill="#fff" stroke="#2B5BFF" stroke-width="1.2"/>
+<text x="48" y="100" class="m xs" fill="#8a8a85">STEP 01</text><text x="48" y="122" class="m s" fill="#111111" style="font-size:16px">PLAN</text><text x="48" y="138" class="m xs" fill="#2B5BFF">break the task down</text>
+<line x1="200" y1="148" x2="200" y2="180" stroke="#2B5BFF" stroke-width="1.2"/><polygon points="200,180 196,173 204,173" fill="#2B5BFF"/>
+<rect x="32" y="180" width="336" height="72" fill="#fff" stroke="#2B5BFF" stroke-width="1.2"/>
+<text x="48" y="204" class="m xs" fill="#8a8a85">STEP 02</text><text x="48" y="226" class="m s" fill="#111111" style="font-size:16px">CALL TOOLS</text><text x="48" y="242" class="m xs" fill="#2B5BFF">read · search · run</text>
+<line x1="200" y1="252" x2="200" y2="284" stroke="#2B5BFF" stroke-width="1.2"/><polygon points="200,284 196,277 204,277" fill="#2B5BFF"/>
+<rect x="32" y="284" width="336" height="72" fill="#fff" stroke="#2B5BFF" stroke-width="1.2"/>
+<text x="48" y="308" class="m xs" fill="#8a8a85">STEP 03</text><text x="48" y="330" class="m s" fill="#111111" style="font-size:16px">EDIT</text><text x="48" y="346" class="m xs" fill="#2B5BFF">change the code</text>
+<line x1="200" y1="356" x2="200" y2="388" stroke="#2B5BFF" stroke-width="1.2"/><polygon points="200,388 196,381 204,381" fill="#2B5BFF"/>
+<rect x="32" y="388" width="336" height="72" fill="#fff" stroke="#2B5BFF" stroke-width="1.2"/>
+<text x="48" y="412" class="m xs" fill="#8a8a85">STEP 04</text><text x="48" y="434" class="m s" fill="#111111" style="font-size:16px">VERIFY</text><text x="48" y="450" class="m xs" fill="#2B5BFF">tests · lint · review</text>
+
+<circle class="pulse" cx="200" cy="112" r="4" fill="#2B5BFF"/>
+<path class="ret" d="M 368 424 L 420 424 L 420 112 L 368 112" fill="none" stroke="#2B5BFF" stroke-width="1"/>
+<polygon points="368,112 376,108 376,116" fill="#2B5BFF"/>
+<text x="32" y="480" class="m xs" fill="#8a8a85">LOOP UNTIL VERIFIED</text>
+</svg>

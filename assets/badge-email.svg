@@ -1,7 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="34" viewBox="0 0 120 34" role="img" aria-label="EMAIL">
-<rect x="0.5" y="0.5" width="119" height="33" rx="3" fill="#F6F5EF" stroke="#d9d7ca"/>
-<rect x="0.5" y="0.5" width="34" height="33" rx="3" fill="#EA4335"/>
-<rect x="30" y="0.5" width="5" height="33" fill="#EA4335"/>
-<g transform="translate(8.5 8.5) scale(0.7083)" fill="#fff"><path d="M2 4h20a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1zm1.6 2.2L12 12.6l8.4-6.4V6H3.6v.2zM3 8.6V18h18V8.6l-9 6.8-9-6.8z"/></g>
-<text x="46" y="21.5" style="font-family:'SFMono-Regular',Menlo,Consolas,monospace;font-size:12px;font-weight:700;letter-spacing:.5px" fill="#111">EMAIL</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="32" viewBox="0 0 116 32" role="img" aria-label="EMAIL">
+<rect x="0.5" y="0.5" width="115" height="31" rx="3" fill="#F6F5EF" stroke="#d9d7ca"/>
+<rect x="0.5" y="0.5" width="32" height="31" rx="3" fill="#EA4335"/><rect x="28" y="0.5" width="5" height="31" fill="#EA4335"/>
+<g transform="translate(8 8) scale(0.667)" fill="#fff"><path d="M2 4h20a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1zm1.6 2.2L12 12.6l8.4-6.4V6H3.6v.2zM3 8.6V18h18V8.6l-9 6.8-9-6.8z"/></g>
+<text x="42" y="20.5" style="font-family:'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;font-size:11px;font-weight:700;letter-spacing:.4px" fill="#111111">EMAIL</text></svg>
