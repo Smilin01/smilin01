@@ -1,15 +1,12 @@
 <div align="center">
 
-<picture>
-<source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg"/>
-<img src="./assets/hero.svg" alt="John Smilin D.S. — Building agents that ship" width="100%"/>
-</picture>
+<img src="./assets/hero.svg" alt="John Smilin D.S. — Building agents that ship" width="720" height="340"/>
 
 <br/>
 
 <a href="https://linkedin.com/in/johnsmilin"><img src="./assets/badge-linkedin.svg" alt="LinkedIn" height="32"/></a>
 <a href="mailto:johnsmilin6@gmail.com"><img src="./assets/badge-email.svg" alt="Email" height="32"/></a>
-<a href="https://resumenova.in"><img src="./assets/badge-resumenova.svg" alt="ResumeNova.in" height="32"/></a>
+<a href="https://resumenova.in"><img src="./assets/badge-resumenova.svg" alt="Website" height="32"/></a>
 
 </div>
 
@@ -23,10 +20,7 @@
 
 I designed, built and own this project from the first line to rollout. A coding agent that plans a task, calls tools, edits code, and verifies its own work before handing it back.
 
-<picture>
-<source media="(max-width: 600px)" srcset="./assets/agent-loop-mobile.svg"/>
-<img src="./assets/agent-loop.svg" alt="Agent loop: plan, call tools, edit, verify" width="100%"/>
-</picture>
+<p align="center"><img src="./assets/agent-loop.svg" alt="Agent loop: plan, call tools, edit, verify" width="600" height="340"/></p>
 
 | | |
 |:--|:--|
@@ -42,7 +36,7 @@ I designed, built and own this project from the first line to rollout. A coding 
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/ordyrr-brand.png" alt="Ordyrr — Scan. Order. Enjoy." width="100%"/>
+<img src="./assets/ordyrr-brand.png" alt="Ordyrr — Scan. Order. Enjoy." width="600"/>
 
 ### Ordyrr
 **Scan. Order. Enjoy.**

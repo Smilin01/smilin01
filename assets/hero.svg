@@ -1,65 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="John Smilin D.S. — AI Engineer, building agents that ship">
-<style>
-.m{font-family:'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace} .s{font-size:10px;letter-spacing:.8px;font-weight:700} .xs{font-size:8px;letter-spacing:1.2px}
-.big{font-family:'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;font-size:50px;font-weight:700;letter-spacing:-1px}
-.sf{font-family:Georgia,'Times New Roman',serif;font-size:14px}
-.fl{animation:fl 4.5s ease-in-out infinite}
-@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
-.dash{stroke-dashoffset:40;animation:dr 1.2s ease-out forwards}
-@keyframes dr{to{stroke-dashoffset:0}}
-text.s,text.xs{animation:fi .8s ease-out .6s forwards}
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="340" viewBox="0 0 720 340" role="img" aria-label="John Smilin D.S. — Building agents that ship">
+<style>.m{font-family:'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace} .xs{font-size:11px;letter-spacing:1.2px}
 @keyframes fi{to{opacity:1}}
-.cur{animation:bl 1s steps(1) infinite}
-@keyframes bl{50%{opacity:0}}
-.t1{opacity:0;animation:fi .7s ease-out .1s forwards}
-.t2{opacity:0;animation:fi .7s ease-out .5s forwards}
-.t3{opacity:0;animation:fi .7s ease-out .9s forwards}
-.t4{opacity:0;animation:fi .7s ease-out 1.3s forwards}
-.dot{animation:mv 6s linear infinite}
-@keyframes mv{from{transform:translateX(0)}to{transform:translateX(904px)}}
-.scan{animation:sc 5s ease-in-out infinite}
-@keyframes sc{0%,100%{opacity:.15}50%{opacity:.55}}
-</style>
-<rect width="1000" height="360" fill="#F6F5EF"/>
-<rect x="0.5" y="0.5" width="999" height="359" fill="none" stroke="#e3e1d6"/>
-<text x="48" y="36" class="m xs t1" fill="#2B5BFF">FIG_000 · PROFILE · V1.0</text>
-<text x="952" y="36" text-anchor="end" class="m xs t1" fill="#8a8a85">2026 · OPEN TO BUILD · AT ATOS</text>
-<text x="48" y="122" class="big t2" fill="#2B5BFF">BUILDING AGENTS</text>
-<text x="48" y="178" class="big t3" fill="#111111">THAT SHIP.<tspan class="cur" fill="#2B5BFF">_</tspan></text>
-<text x="48" y="222" class="sf t4" fill="#111111">John Smilin D.S. — AI Engineer at Atos. I design and build agentic</text>
-<text x="48" y="243" class="sf t4" fill="#111111">systems end-to-end: coding agents, RAG, multi-agent orchestration.</text>
-<text x="48" y="282" class="m xs t4" fill="#2B5BFF">ATOS CODING AGENT · ORDYRR · RESUMENOVA</text>
-<text x="48" y="298" class="m xs t4" fill="#8a8a85">AGENTS · SKILLS · MCP · RAG · DEVOPS</text>
-<text x="620" y="64" class="m xs t1" fill="#2B5BFF">FIG_000.A · CAPABILITY STACK</text>
-<g class="fl" style="animation-delay:0.0s"><polygon points="620,92 690,66 760,92 690,118" fill="#2B5BFF" fill-opacity="0.25" stroke="#2B5BFF" stroke-width="1.2"/></g>
-<g class="fl" style="animation-delay:0.35s"><polygon points="620,118 690,92 760,118 690,144" fill="#2B5BFF" fill-opacity="0.23" stroke="#2B5BFF" stroke-width="1.2"/></g>
-<g class="fl" style="animation-delay:0.7s"><polygon points="620,144 690,118 760,144 690,170" fill="#2B5BFF" fill-opacity="0.20" stroke="#2B5BFF" stroke-width="1.2"/></g>
-<g class="fl" style="animation-delay:1.0499999999999998s"><polygon points="620,170 690,144 760,170 690,196" fill="#2B5BFF" fill-opacity="0.18" stroke="#2B5BFF" stroke-width="1.2"/></g>
-<g class="fl" style="animation-delay:1.4s"><polygon points="620,196 690,170 760,196 690,222" fill="#2B5BFF" fill-opacity="0.15" stroke="#2B5BFF" stroke-width="1.2"/></g>
-<g class="fl" style="animation-delay:1.75s"><polygon points="620,222 690,196 760,222 690,248" fill="#2B5BFF" fill-opacity="0.12" stroke="#2B5BFF" stroke-width="1.2"/></g>
-<g class="fl" style="animation-delay:2.0999999999999996s"><polygon points="620,248 690,222 760,248 690,274" fill="#2B5BFF" fill-opacity="0.10" stroke="#2B5BFF" stroke-width="1.2"/></g>
-<line class="dash" x1="762" y1="92" x2="802" y2="92" stroke="#2B5BFF" stroke-width="0.8" stroke-dasharray="2 3" style="animation-delay:0.0s"/>
-<text x="808" y="95" class="m s" fill="#2B5BFF" style="animation-delay:0.0s" opacity="0">AGENTS · SKILLS · MCP</text>
-<text x="808" y="105" class="m xs" fill="#8a8a85" style="animation-delay:0.0s" opacity="0">LAYER 01</text>
-<line class="dash" x1="762" y1="118" x2="802" y2="118" stroke="#2B5BFF" stroke-width="0.8" stroke-dasharray="2 3" style="animation-delay:0.35s"/>
-<text x="808" y="121" class="m s" fill="#2B5BFF" style="animation-delay:0.35s" opacity="0">CODING AGENT · ATOS</text>
-<text x="808" y="131" class="m xs" fill="#8a8a85" style="animation-delay:0.35s" opacity="0">LAYER 02</text>
-<line class="dash" x1="762" y1="144" x2="802" y2="144" stroke="#2B5BFF" stroke-width="0.8" stroke-dasharray="2 3" style="animation-delay:0.7s"/>
-<text x="808" y="147" class="m s" fill="#2B5BFF" style="animation-delay:0.7s" opacity="0">MULTI-AGENT · ORCH</text>
-<text x="808" y="157" class="m xs" fill="#8a8a85" style="animation-delay:0.7s" opacity="0">LAYER 03</text>
-<line class="dash" x1="762" y1="170" x2="802" y2="170" stroke="#2B5BFF" stroke-width="0.8" stroke-dasharray="2 3" style="animation-delay:1.0499999999999998s"/>
-<text x="808" y="173" class="m s" fill="#2B5BFF" style="animation-delay:1.0499999999999998s" opacity="0">RAG · RETRIEVAL</text>
-<text x="808" y="183" class="m xs" fill="#8a8a85" style="animation-delay:1.0499999999999998s" opacity="0">LAYER 04</text>
-<line class="dash" x1="762" y1="196" x2="802" y2="196" stroke="#2B5BFF" stroke-width="0.8" stroke-dasharray="2 3" style="animation-delay:1.4s"/>
-<text x="808" y="199" class="m s" fill="#2B5BFF" style="animation-delay:1.4s" opacity="0">LLM · PROMPTS</text>
-<text x="808" y="209" class="m xs" fill="#8a8a85" style="animation-delay:1.4s" opacity="0">LAYER 05</text>
-<line class="dash" x1="762" y1="222" x2="802" y2="222" stroke="#2B5BFF" stroke-width="0.8" stroke-dasharray="2 3" style="animation-delay:1.75s"/>
-<text x="808" y="225" class="m s" fill="#2B5BFF" style="animation-delay:1.75s" opacity="0">SERVICES · APIS</text>
-<text x="808" y="235" class="m xs" fill="#8a8a85" style="animation-delay:1.75s" opacity="0">LAYER 06</text>
-<line class="dash" x1="762" y1="248" x2="802" y2="248" stroke="#2B5BFF" stroke-width="0.8" stroke-dasharray="2 3" style="animation-delay:2.0999999999999996s"/>
-<text x="808" y="251" class="m s" fill="#2B5BFF" style="animation-delay:2.0999999999999996s" opacity="0">CLOUD · DEVOPS</text>
-<text x="808" y="261" class="m xs" fill="#8a8a85" style="animation-delay:2.0999999999999996s" opacity="0">LAYER 07</text>
+.t1{opacity:0;animation:fi .7s ease-out .1s forwards}.t2{opacity:0;animation:fi .7s ease-out .5s forwards}.t3{opacity:0;animation:fi .7s ease-out .9s forwards}.t4{opacity:0;animation:fi .7s ease-out 1.3s forwards}
+.big{font-family:'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;font-size:46px;font-weight:700;letter-spacing:-1.5px}
+.fl{animation:fl 4.5s ease-in-out infinite}@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+.cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+.dot{animation:mv 6s linear infinite}@keyframes mv{from{transform:translateX(0)}to{transform:translateX(644px)}}</style>
+<rect width="720" height="340" fill="#F6F5EF"/><rect x=".5" y=".5" width="719" height="339" fill="none" stroke="#e3e1d6"/>
+<text x="40" y="38" class="m xs t1" fill="#2B5BFF">FIG_000 · PROFILE · V1.0</text>
+<text x="680" y="38" text-anchor="end" class="m xs t1" fill="#8a8a85">AT ATOS</text>
+<text x="40" y="112" class="big t2" fill="#2B5BFF">BUILDING</text>
+<text x="40" y="164" class="big t2" fill="#2B5BFF">AGENTS</text>
+<text x="40" y="216" class="big t3" fill="#111111">THAT SHIP.<tspan class="cur" fill="#2B5BFF">_</tspan></text>
+<text x="40" y="262" class="m t4" fill="#111111" style="font-size:15px;font-weight:700;letter-spacing:.5px">AI ENGINEER @ ATOS</text>
+<text x="40" y="284" class="m xs t4" fill="#8a8a85">JOHN SMILIN D.S.</text>
+<g class="fl" style="animation-delay:0.0s"><polygon points="456,96 540,66 624,96 540,126" fill="#2B5BFF" fill-opacity="0.25" stroke="#2B5BFF" stroke-width="1.3"/></g>
+<g class="fl" style="animation-delay:0.35s"><polygon points="456,126 540,96 624,126 540,156" fill="#2B5BFF" fill-opacity="0.23" stroke="#2B5BFF" stroke-width="1.3"/></g>
+<g class="fl" style="animation-delay:0.7s"><polygon points="456,156 540,126 624,156 540,186" fill="#2B5BFF" fill-opacity="0.20" stroke="#2B5BFF" stroke-width="1.3"/></g>
+<g class="fl" style="animation-delay:1.0499999999999998s"><polygon points="456,186 540,156 624,186 540,216" fill="#2B5BFF" fill-opacity="0.18" stroke="#2B5BFF" stroke-width="1.3"/></g>
+<g class="fl" style="animation-delay:1.4s"><polygon points="456,216 540,186 624,216 540,246" fill="#2B5BFF" fill-opacity="0.15" stroke="#2B5BFF" stroke-width="1.3"/></g>
+<g class="fl" style="animation-delay:1.75s"><polygon points="456,246 540,216 624,246 540,276" fill="#2B5BFF" fill-opacity="0.12" stroke="#2B5BFF" stroke-width="1.3"/></g>
+<g class="fl" style="animation-delay:2.0999999999999996s"><polygon points="456,276 540,246 624,276 540,306" fill="#2B5BFF" fill-opacity="0.10" stroke="#2B5BFF" stroke-width="1.3"/></g>
 
-<line x1="48" y1="326" x2="952" y2="326" stroke="#cfcdc0" stroke-width="1" stroke-dasharray="1 5"/>
-<g class="dot"><rect x="48" y="323" width="16" height="6" fill="#2B5BFF" class="scan"/></g>
+<line x1="40" y1="318" x2="680" y2="318" stroke="#cfcdc0" stroke-dasharray="1 5"/>
+<g class="dot"><rect x="40" y="315" width="16" height="6" fill="#2B5BFF"/></g>
 </svg>
