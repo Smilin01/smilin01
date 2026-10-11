@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/johnsmilin"><img src="https://img.shields.io/badge/linkedin-johnsmilin-2B5BFF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://resumenova.in"><img src="https://img.shields.io/badge/web-resumenova.in-111111?style=flat-square" alt="ResumeNova"/></a>
-<a href="mailto:johnsmilin6@gmail.com"><img src="https://img.shields.io/badge/mail-johnsmilin6@gmail.com-2B5BFF?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/johnsmilin"><img src="./assets/badge-linkedin.svg" alt="LinkedIn" height="34"/></a>
+<a href="mailto:johnsmilin6@gmail.com"><img src="./assets/badge-email.svg" alt="Email" height="34"/></a>
+<a href="https://resumenova.in"><img src="./assets/badge-resumenova.svg" alt="ResumeNova.in" height="34"/></a>
 <img src="https://komarev.com/ghpvc/?username=smilin01&label=views&color=111111&style=flat-square" alt="Profile views"/>
 
 </div>
@@ -37,6 +37,8 @@ I designed, built and own this project from the first line to rollout. A coding 
 <tr>
 <td width="50%" valign="top">
 
+<img src="./assets/ordyrr-brand.png" alt="Ordyrr — Scan. Order. Enjoy." width="100%"/>
+
 ### Ordyrr
 **Scan. Order. Enjoy.**
 
@@ -48,6 +50,8 @@ Microservices: `auth` · `menu` · `order` · `notification` — with role-based
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./assets/resumenova-logo.png" alt="ResumeNova logo" height="90"/>
 
 ### ResumeNova
 **[resumenova.in](https://resumenova.in)**
