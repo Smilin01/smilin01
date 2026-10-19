@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="120" viewBox="0 0 720 120" role="img">
+<defs>
+<filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#1F3A8A" flood-opacity=".08"/></filter>
+<linearGradient id="gb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EAF2FF"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+<linearGradient id="gp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF1E6"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+<linearGradient id="gl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8DB8FF"/><stop offset="1" stop-color="#1A6BF0"/></linearGradient>
+</defs>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+@keyframes fi{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.a1{opacity:0;animation:fi .8s ease-out .1s forwards}.a2{opacity:0;animation:fi .8s ease-out .35s forwards}.a3{opacity:0;animation:fi .8s ease-out .6s forwards}.a4{opacity:0;animation:fi .8s ease-out .85s forwards}
+@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes bl{50%{opacity:0}}
+@keyframes pu{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes da{to{stroke-dashoffset:-14}}
+
+</style>
+<rect width="720" height="120" fill="#FBF8F4"/>
+<rect x="16" y="14" width="688" height="92" rx="20" fill="#fff" stroke="#ECE7DF" filter="url(#sh)"/>
+<circle cx="64" cy="60" r="21" fill="#F1F6FF"/><path d="M55 66 L74 51 L69 71 L65 64 Z" fill="none" stroke="#1A6BF0" stroke-width="1.8" stroke-linejoin="round"/><text x="94" y="57" font-size="16" font-weight="700" fill="#0F1B33">3+</text><text x="94" y="76" font-size="13" fill="#6B7280">Live Projects</text><circle cx="234" cy="60" r="21" fill="#F1F6FF"/><text x="234" y="65" text-anchor="middle" font-size="15" font-weight="700" fill="#1A6BF0">&lt;/&gt;</text><text x="264" y="57" font-size="16" font-weight="700" fill="#0F1B33">AI Agent</text><text x="264" y="76" font-size="13" fill="#6B7280">at Atos</text><line x1="200" y1="40" x2="200" y2="80" stroke="#ECE7DF"/><circle cx="404" cy="60" r="21" fill="#F1F6FF"/><path d="M404 48 L415 54 V66 L404 72 L393 66 V54 Z M393 54 L404 60 L415 54 M404 60 V72" fill="none" stroke="#1A6BF0" stroke-width="1.8" stroke-linejoin="round"/><text x="434" y="57" font-size="16" font-weight="700" fill="#0F1B33">Full Stack</text><text x="434" y="76" font-size="13" fill="#6B7280">Developer</text><line x1="370" y1="40" x2="370" y2="80" stroke="#ECE7DF"/><circle cx="574" cy="60" r="21" fill="#F1F6FF"/><path d="M577 47 L566 62 H574 L571 74 L583 58 H575 Z" fill="none" stroke="#1A6BF0" stroke-width="1.8" stroke-linejoin="round"/><text x="604" y="57" font-size="16" font-weight="700" fill="#0F1B33">Always</text><text x="604" y="76" font-size="13" fill="#6B7280">Learning</text><line x1="540" y1="40" x2="540" y2="80" stroke="#ECE7DF"/></svg>
