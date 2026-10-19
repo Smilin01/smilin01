@@ -17,18 +17,16 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica N
 </style>
 <rect width="720" height="340" fill="#FBF8F4"/>
 <text x="40" y="44" class="a1" font-size="12" letter-spacing="3.5" fill="#6B7280">JOHN SMILIN D.S.</text>
-<circle cx="508" cy="40" r="4" class="pu" fill="#1A6BF0"/><text x="680" y="44" text-anchor="end" class="a1" font-size="12" letter-spacing="2.5" fill="#6B7280">AI ENGINEER · ATOS</text>
-<text x="40" y="118" class="a2" font-size="54" font-weight="800" fill="#0F1B33" letter-spacing="-1.5">Building</text>
-<text x="40" y="178" class="a2" font-size="54" font-weight="800" fill="#1A6BF0" letter-spacing="-1.5">Agents</text>
-<text x="40" y="238" class="a3" font-size="54" font-weight="800" fill="#0F1B33" letter-spacing="-1.5">That Ship.<tspan class="cur" fill="#1A6BF0" font-weight="300">|</tspan></text>
-<text x="40" y="282" class="a4" font-size="16" fill="#6B7280">AI Engineer at Atos · Designing, building</text><text x="40" y="304" class="a4" font-size="16" fill="#6B7280">and shipping AI agents and real products.</text>
-<g class="fl" style="animation-delay:0.0s"><polygon points="437,135 545,95 653,135 545,175" fill="url(#gl)" fill-opacity="0.35" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/></g>
-<g class="fl" style="animation-delay:0.4s"><polygon points="437,165 545,125 653,165 545,205" fill="url(#gl)" fill-opacity="0.5" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/></g>
-<g class="fl" style="animation-delay:0.8s"><polygon points="437,195 545,155 653,195 545,235" fill="url(#gl)" fill-opacity="0.7" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/></g>
-<g class="fl" style="animation-delay:1.2000000000000002s"><polygon points="437,225 545,185 653,225 545,265" fill="url(#gl)" fill-opacity="0.9" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/></g>
-<circle cx="395" cy="72" r="6" fill="#DCE8FF"/><circle cx="395" cy="72" r="3.5" class="pu" fill="#1A6BF0"/><text x="409" y="76" text-anchor="start" font-size="11" letter-spacing="2" fill="#6B7280">PLAN</text>
-<circle cx="690" cy="72" r="6" fill="#DCE8FF"/><circle cx="690" cy="72" r="3.5" class="pu" fill="#1A6BF0"/><text x="676" y="76" text-anchor="end" font-size="11" letter-spacing="2" fill="#6B7280">TOOLS</text>
-<circle cx="395" cy="275" r="6" fill="#DCE8FF"/><circle cx="395" cy="275" r="3.5" class="pu" fill="#1A6BF0"/><text x="409" y="279" text-anchor="start" font-size="11" letter-spacing="2" fill="#6B7280">CODE</text>
-<circle cx="690" cy="275" r="6" fill="#DCE8FF"/><circle cx="690" cy="275" r="3.5" class="pu" fill="#1A6BF0"/><text x="676" y="279" text-anchor="end" font-size="11" letter-spacing="2" fill="#6B7280">VERIFY</text>
-<path d="M 400 80 Q 385 150 430 200" fill="none" stroke="#CFE0FF" stroke-width="1"/><path d="M 685 80 Q 700 160 660 220" fill="none" stroke="#CFE0FF" stroke-width="1"/>
+<circle cx="392" cy="40" r="4" class="pu" fill="#1A6BF0"/><text x="680" y="44" text-anchor="end" class="a1" font-size="12" letter-spacing="2.5" fill="#6B7280">AI ENGINEER · AGENTIC SYSTEMS</text>
+<text x="40" y="116" class="a2" font-size="46" font-weight="800" fill="#0F1B33" letter-spacing="-1.5">Agentic AI,</text>
+<text x="40" y="170" class="a2" font-size="46" font-weight="800" fill="#1A6BF0" letter-spacing="-1.5">built to run</text>
+<text x="40" y="224" class="a3" font-size="46" font-weight="800" fill="#0F1B33" letter-spacing="-1.5">in production.<tspan class="cur" fill="#1A6BF0" font-weight="300">|</tspan></text>
+<text x="40" y="270" class="a4" font-size="16" fill="#6B7280">AI Engineer at Atos. I design agent systems</text><text x="40" y="292" class="a4" font-size="16" fill="#6B7280">end to end: reasoning loops, tool use, retrieval,</text><text x="40" y="314" class="a4" font-size="16" fill="#6B7280">and the cloud under them.</text><g class="fl" style="animation-delay:0.0s"><polygon points="465,130 565,93 665,130 565,167" fill="url(#gl)" fill-opacity="0.35" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/></g>
+<g class="fl" style="animation-delay:0.4s"><polygon points="465,160 565,123 665,160 565,197" fill="url(#gl)" fill-opacity="0.5" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/></g>
+<g class="fl" style="animation-delay:0.8s"><polygon points="465,190 565,153 665,190 565,227" fill="url(#gl)" fill-opacity="0.7" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/></g>
+<g class="fl" style="animation-delay:1.2000000000000002s"><polygon points="465,220 565,183 665,220 565,257" fill="url(#gl)" fill-opacity="0.9" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/></g>
+<circle cx="440" cy="82" r="6" fill="#DCE8FF"/><circle cx="440" cy="82" r="3.5" class="pu" fill="#1A6BF0"/><text x="454" y="86" text-anchor="start" font-size="11" letter-spacing="2" fill="#6B7280">REASON</text>
+<circle cx="690" cy="82" r="6" fill="#DCE8FF"/><circle cx="690" cy="82" r="3.5" class="pu" fill="#1A6BF0"/><text x="676" y="86" text-anchor="end" font-size="11" letter-spacing="2" fill="#6B7280">RETRIEVE</text>
+<circle cx="440" cy="250" r="6" fill="#DCE8FF"/><circle cx="440" cy="250" r="3.5" class="pu" fill="#1A6BF0"/><text x="454" y="254" text-anchor="start" font-size="11" letter-spacing="2" fill="#6B7280">ACT</text>
+<circle cx="690" cy="250" r="6" fill="#DCE8FF"/><circle cx="690" cy="250" r="3.5" class="pu" fill="#1A6BF0"/><text x="676" y="254" text-anchor="end" font-size="11" letter-spacing="2" fill="#6B7280">VERIFY</text>
 </svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="316" viewBox="0 0 720 316" role="img">
+<defs>
+<filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#1F3A8A" flood-opacity=".08"/></filter>
+<linearGradient id="gb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EAF2FF"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+<linearGradient id="gp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF1E6"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+<linearGradient id="gl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8DB8FF"/><stop offset="1" stop-color="#1A6BF0"/></linearGradient>
+</defs>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+@keyframes fi{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.a1{opacity:0;animation:fi .8s ease-out .1s forwards}.a2{opacity:0;animation:fi .8s ease-out .35s forwards}.a3{opacity:0;animation:fi .8s ease-out .6s forwards}.a4{opacity:0;animation:fi .8s ease-out .85s forwards}
+@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes bl{50%{opacity:0}}
+@keyframes pu{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes da{to{stroke-dashoffset:-14}}
+
+</style>
+<rect width="720" height="316" fill="#FBF8F4"/>
+<rect x="16" y="14" width="688" height="288" rx="24" fill="url(#gb)" stroke="#ECE7DF" filter="url(#sh)"/>
+<defs><linearGradient id="taeth" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9C8BFF"/><stop offset="1" stop-color="#5B3DF5"/></linearGradient></defs><rect x="40" y="38" width="76" height="76" rx="19" fill="url(#taeth)" filter="url(#sh)"/><circle cx="75" cy="73" r="14" fill="none" stroke="#fff" stroke-width="4"/><path d="M86 84 L97 95" stroke="#fff" stroke-width="5" stroke-linecap="round"/><text x="136" y="70" font-size="26" font-weight="800" fill="#0F1B33" letter-spacing="-.5">Aetheron AI</text><text x="136" y="96" font-size="15.5" fill="#6B7280">Privacy-first AI search engine</text><text x="40" y="146" font-size="15.5" fill="#3D4A63">Answers questions with retrieval over a self-hosted search stack</text><text x="40" y="168" font-size="15.5" fill="#3D4A63">(SearXNG + Jina Reader), streamed to the UI as they are written.</text><line x1="40" y1="186" x2="680" y2="186" stroke="#ECE7DF"/><text x="40" y="226" font-size="30" font-weight="800" fill="#1A6BF0" letter-spacing="-1">0</text><text x="40" y="246" font-size="12.5" fill="#6B7280">paid search APIs</text><line x1="237" y1="200" x2="237" y2="248" stroke="#ECE7DF"/><text x="255" y="226" font-size="30" font-weight="800" fill="#1A6BF0" letter-spacing="-1">100%</text><text x="255" y="246" font-size="12.5" fill="#6B7280">self-hosted retrieval layer</text><line x1="452" y1="200" x2="452" y2="248" stroke="#ECE7DF"/><text x="470" y="226" font-size="30" font-weight="800" fill="#1A6BF0" letter-spacing="-1">SSE</text><text x="470" y="246" font-size="12.5" fill="#6B7280">token-by-token streaming</text><rect x="40" y="262" width="97" height="28" rx="14.0" fill="#fff" stroke="#E7E2D9"/><text x="88.5" y="280.55" font-size="13" font-weight="500" fill="#3D4A63" text-anchor="middle">Next.js 14</text>
+<rect x="147" y="262" width="126" height="28" rx="14.0" fill="#fff" stroke="#E7E2D9"/><text x="210.0" y="280.55" font-size="13" font-weight="500" fill="#3D4A63" text-anchor="middle">Groq · Llama 4</text>
+<rect x="283" y="262" width="46" height="28" rx="14.0" fill="#fff" stroke="#E7E2D9"/><text x="306.0" y="280.55" font-size="13" font-weight="500" fill="#3D4A63" text-anchor="middle">RAG</text>
+<rect x="339" y="262" width="75" height="28" rx="14.0" fill="#fff" stroke="#E7E2D9"/><text x="376.5" y="280.55" font-size="13" font-weight="500" fill="#3D4A63" text-anchor="middle">SearXNG</text>
+</svg>
